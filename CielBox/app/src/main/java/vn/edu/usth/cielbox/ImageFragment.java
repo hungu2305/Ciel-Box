@@ -1,12 +1,25 @@
 package vn.edu.usth.cielbox;
 
+import android.Manifest;
+import android.content.Context;
+import android.content.pm.PackageManager;
 import android.os.Bundle;
 
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.core.app.ActivityCompat;
+import androidx.core.content.ContextCompat;
 import androidx.fragment.app.Fragment;
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import java.util.List;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -34,7 +47,7 @@ public class ImageFragment extends Fragment {
      *
      * @param param1 Parameter 1.
      * @param param2 Parameter 2.
-     * @return A new instance of fragment ImageFragment.
+     * @return A new instance of fragment VideoFragment.
      */
     // TODO: Rename and change types and number of parameters
     public static ImageFragment newInstance(String param1, String param2) {

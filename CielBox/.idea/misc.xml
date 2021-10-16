@@ -3,12 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Laptop88/AndroidStudioProjects/CielBox/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Laptop88/AndroidStudioProjects/CielBox/app/src/main/res/layout/activity_image.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Laptop88/AndroidStudioProjects/CielBox/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/Laptop88/AndroidStudioProjects/CielBox/app/src/main/res/layout/activity_maininterface.xml" value="0.2" />
         <entry key="..\:/Users/Laptop88/AndroidStudioProjects/CielBox/app/src/main/res/layout/fragment_file.xml" value="0.2" />
         <entry key="..\:/Users/Laptop88/AndroidStudioProjects/CielBox/app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="..\:/Users/Laptop88/AndroidStudioProjects/CielBox/app/src/main/res/layout/fragment_image.xml" value="0.2" />
         <entry key="..\:/Users/Laptop88/AndroidStudioProjects/CielBox/app/src/main/res/layout/fragment_video.xml" value="0.2" />
+        <entry key="..\:/Users/Laptop88/AndroidStudioProjects/CielBox/app/src/main/res/layout/gallery_item.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Laptop88/AndroidStudioProjects/CielBox/app/src/main/res/menu/menu_navigation.xml" value="0.2" />
       </map>
     </option>
